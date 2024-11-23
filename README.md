@@ -103,10 +103,4 @@ Contributions are welcome! Fork this repository and create a pull request with d
 
 ---
 
-## License  
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-Let me know if there’s anything else to fine-tune! 😊
+ 
